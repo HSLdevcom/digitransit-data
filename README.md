@@ -1,1 +1,1 @@
-# openjourneyplanner-data
+# digitransit-data
